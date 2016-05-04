@@ -1,0 +1,26 @@
+body{
+  width:16.75em;
+  padding: 0.25em;
+  background-color:#A9A8A9;
+  font-family:"Helvetica"
+  height: 25em;
+}
+
+fieldset{
+  height: 25em;
+  width: 14.5em;
+   border-width: 0.25em;
+  border-color: darkblue;
+}
+
+footer{
+  padding: 0.5em;
+  color: #D00D2D;
+  font-size: 0.75em;
+  float: left;
+}
+
+legend{
+  color:#D00D2D;
+  
+}
