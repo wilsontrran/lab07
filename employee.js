@@ -1,7 +1,6 @@
 var employees = [{}];
 var i = 0;
 function submit() {
-
 employees.push({});
 
 employees[i].fname = document.getElementById("fname").value;
@@ -28,8 +27,6 @@ i++;
 return false;
   
 }
-
-  
 
 
 function init() {
